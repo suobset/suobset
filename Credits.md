@@ -9,6 +9,12 @@
 
 Refer to the original from https://github.com/jstrieb/github-stats
 
-Removed all documentation to preserve integrity. Go check out their project, and give them the credit :)
+Removed all documentation to preserve integrity. 
+
+I really want everyone to actually go to their Repo and check it out, even if it's mostly the same exact thing!!
+
+Go check out their project, and give them the credit :)
 
 Have a great day, y'all :D
+
+-kush 

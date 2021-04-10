@@ -1,9 +1,9 @@
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
-<a href="https://github.com/suobset/meesaStats">
+<a href="https://github.com/suobset/suobset">
 
-![](https://github.com/suobset/meesaStats/blob/master/generated/overview.svg)
-![](https://github.com/suobset/meesaStats/blob/master/generated/languages.svg)
+![](https://github.com/suobset/suobset/blob/master/generated/overview.svg)
+![](https://github.com/suobset/suobset/blob/master/generated/languages.svg)
 
 </a>
 

@@ -19,7 +19,7 @@
 
       Topics Include:
         1. How many digits can be displayed on a 7 segment display?
-        2. How does giving birth in the Matrix work?? (modifying the Gale-Shapley Algorithm to work with 3 entities basically)
+        2. How do genetics work in the Matrix?? (modifying the Gale-Shapley Algorithm to work with 3 entities basically)
         3. What colour is the best??
         4. Solving a rarely known old Nintendo challenge. 
         5. When will I exactly reverse a linked list in a professional job??

@@ -27,6 +27,7 @@
         7. Running out of options and being desperate for some sort of resolution.
         8. Oh I also mainly use Github to keep track of my uni projects currently. That repo might forever be private.
 
+- 💻 Other than that, I'm currently also working on my personal website, and my Github. It's the reason you see "Work In Progress" (WIP) plastered on everything I do. Hopefully it won't be for long :)
 - 🌱 I’m currently learning Computer Science at the University of Massachusetts, Amherst.
 - 👯 I’m looking to collaborate on backend projects + coding challenges. Also new obscure questions welcome. 
 - 🤔 I’m looking for help with finding the answer to the ultimate question of life, the universe, and everything.

@@ -29,8 +29,8 @@
 
 - 🌱 I’m currently learning Computer Science at the University of Massachusetts, Amherst.
 - 👯 I’m looking to collaborate on backend projects + coding challenges. Also new obscure questions welcome. 
-- 🤔 I’m looking for help with finding the answer to the meaning of life, the universe, and everything
-- 💬 Ask me about how my day was :)
+- 🤔 I’m looking for help with finding the answer to the ultimate question of life, the universe, and everything.
+- 💬 Ask me about how my day was, or just reach out to talk :D
 - 📫 How to reach me: https://linktr.ee/suobset
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Fountain Pens, and do some shitty music stuff :)

@@ -15,19 +15,8 @@
 **suobset/suobset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on some fun stuff to explore the world's obscure questions. 
-
-      Topics Include:
-        1. How many digits can be displayed on a 7 segment display?
-        2. How do genetics work in the Matrix?? (modifying the Gale-Shapley Algorithm to work with 3 entities basically)
-        3. What colour is the best??
-        4. Solving a rarely known old Nintendo challenge. 
-        5. When will I exactly reverse a linked list in a professional job??
-        6. How to work my lazy ass to complete projects more often
-        7. Running out of options and being desperate for some sort of resolution.
-        8. Oh I also mainly use Github to keep track of my uni projects currently. That repo might forever be private.
-
-- 💻 Other than that, I'm currently also working on my personal website, and my Github. It's the reason you see "Work In Progress" (WIP) plastered on everything I do. Hopefully it won't be for long :)
+- 🔭 I’m currently working on some fun stuff to explore the world's obscure questions through code. More on that later (it's a WIP).
+- 💻 Other than that, I'm also using GitHub to showcase some of the other cool projects I do at University; such as <a href="https://suobset.github.io/iCons">my work at iCons!!</a>
 - 🌱 I’m currently learning Computer Science at the University of Massachusetts, Amherst.
 - 👯 I’m looking to collaborate on backend projects + coding challenges. Also new obscure questions welcome. 
 - 🤔 I’m looking for help with finding the answer to the ultimate question of life, the universe, and everything.

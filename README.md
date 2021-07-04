@@ -1,6 +1,6 @@
 <!-- > Keep Scrolling for more info :) -->
 
-<img src = "https://user-images.githubusercontent.com/73229775/114243328-00181380-99aa-11eb-847f-9bc1709a27c7.png" width = 80%> 
+<img src = "https://user-images.githubusercontent.com/73229775/114243328-00181380-99aa-11eb-847f-9bc1709a27c7.png" width = 85%> 
 
 <a href="https://github.com/suobset/suobset">
 

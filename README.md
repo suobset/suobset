@@ -25,3 +25,7 @@
 - 📫 How to reach me: https://linktr.ee/suobset
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Fountain Pens, and do some shitty music stuff :)
+
+## <a href="https://skushagra.com">Personal Website!!</a>
+
+if the link does not work, please go to [skushagra.com](skushagra.com)

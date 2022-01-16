@@ -22,7 +22,7 @@
 - 👯 I’m looking to collaborate on backend projects + coding challenges + hackathons + just creating new open source stuff.   
 - 🤔 I’m looking for help with finding the answer to the ultimate question of life, the universe, and everything.
 - 💬 Ask me about how my day was, or just reach out to talk :D
-- 📫 How to reach me: https://linktr.ee/suobset
+- 📫 How to reach me: <a href="mailto:hello@skushagra.com">hello@skushagra.com</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Fountain Pens, and do some shitty music stuff :)
 

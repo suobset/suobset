@@ -26,4 +26,4 @@
 
 ## <a href="https://skushagra.com">Personal Website!!</a>
 
-if the link does not work, please go to [skushagra.com](skushagra.com)
+if the link does not work, please go to [skushagra.com](https://skushagra.com)

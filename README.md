@@ -30,4 +30,6 @@ If the link does not work, please go to [skushagra.com](https://skushagra.com)
 
 Moreover, here is my [umass.edu](http://edlab.cs.umass.edu/~ksrivastava/) webpage.
 
-...and my [YouTube](https://www.youtube.com/channel/UCDHmdciUflWm33FJK-He0gQ).
+...and my [Blog](https://medium.com/@skushagra).
+
+Lastly, [everything else](https://linktr.ee/suobset)

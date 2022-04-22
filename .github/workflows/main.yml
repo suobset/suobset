@@ -70,7 +70,9 @@ jobs:
         # "echo" returns true so the build succeeds, even if no changed files
         git commit -m 'Thinking' || echo
         git push
-
+    # Github Contribution graph snake game: first try
+    - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v2.0.0-rc.2
 #“O Deep Thought computer," he said, "the task we have designed you to perform is this. We want you to tell us...." he paused, "The Answer."
 #"The Answer?" said Deep Thought. "The Answer to what?"
 #"Life!" urged Fook.

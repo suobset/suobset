@@ -30,6 +30,8 @@ If the link does not work, please go to [skushagra.com](https://skushagra.com)
 
 Moreover, here is my [umass.edu](http://edlab.cs.umass.edu/~ksrivastava/) webpage.
 
+Published works in [UMass iCons](https://icons.cns.umass.edu/innovation-portal/search?keywords=Kushagra).
+
 ...and my [Blog](https://medium.com/@skushagra).
 
 Lastly, [everything else](https://linktr.ee/suobset)

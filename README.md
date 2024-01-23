@@ -42,3 +42,7 @@ Join the [EFF](https://eff.org). Support Free Speech, Digital Privacy, and techn
 [Debian](https://www.debian.org/) + [Trisquel](https://trisquel.info/)
 
 Support [The Trevor Project](https://www.thetrevorproject.org/), and their mission to crerate a safer & better world for future generations.
+
+<hr>
+
+I also use BitBucket for my professional work at [The LinKaGe Lab](https://linkage.cs.umass.edu), and a variety of self-hosted solutions based on different needs.

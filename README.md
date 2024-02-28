@@ -45,4 +45,4 @@ Support [The Trevor Project](https://www.thetrevorproject.org/), and their missi
 
 <hr>
 
-I also use BitBucket for my professional work at [The LinKaGe Lab](https://linkage.cs.umass.edu), and a variety of self-hosted solutions based on different needs.
+I also use BitBucket for my professional work at [The LinKaGe Lab](http://linkage.cs.umass.edu), and a variety of self-hosted solutions based on different needs.

@@ -15,7 +15,6 @@ Note: Excludes HTML. -->
 
 <!--
 **suobset/suobset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 - 🔭 I’m currently studying CompSci at the Manning CICS + CHC at University of Massachusetts, Amherst. 
 - 🖥  I'm also using GitHub to showcase some of the other cool projects I do at University; such as <a href="https://suobset.github.io/iCons">my work at iCons!!</a>
@@ -25,6 +24,8 @@ Note: Excludes HTML. -->
 - 📫 How to reach me: <a href="mailto:hello@skushagra.com">hello@skushagra.com</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Fountain Pens, and do some music stuff :)
+
+-->
 
 ## <a href="https://skushagra.com">Personal Website!!</a>
 

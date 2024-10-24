@@ -44,6 +44,8 @@ Join the [EFF](https://eff.org). Support Free Speech, Digital Privacy, and techn
 
 Support [The Trevor Project](https://www.thetrevorproject.org/), and their mission to crerate a safer & better world for future generations.
 
+[A disclaimer on my FSF membership and some thoughts](https://skushagra.com/disclaimer_fsf)
+
 <hr>
 
 I also use GitLab for my professional work at [Psivant](https://psivant.com), and a variety of self-hosted solutions based on different needs. 

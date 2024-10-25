@@ -29,22 +29,9 @@ Note: Excludes HTML. -->
 
 ## <a href="https://skushagra.com">Personal Website!!</a>
 
-If the link does not work, please go to [skushagra.com](https://skushagra.com)
+Everything I'd want to put here, and much more. Blog is very outdated, for the record.
 
-## Some Causes that I support and Believe in
-
-![FSF](https://static.fsf.org/nosvn/associate/crm/6091180.png) <a href="https://www.eff.org"><img src="https://www.eff.org/files/2022/11/28/eff-2023-member-member.png" alt="EFF" width="150"/></a> 
-<a href="https://www.gnu.org/"><img src="https://static.fsf.org/nosvn/images/badges/powered_ascii_gray-bg.png" alt="Powered by GNU" width="150" /></a> <a href="https://www.thetrevorproject.org/"><img src="https://www.thetrevorproject.org/wp-content/uploads/2021/09/METADATA_IMG_ORANGE-BG.jpg" alt="Trevor Project" width="150" /></a>
-
-Join the [FSF](https://fsf.org). Support Libre Software!!
-
-Join the [EFF](https://eff.org). Support Free Speech, Digital Privacy, and technology innovation through Libre + Open Source.
-
-[Debian](https://www.debian.org/) + [Trisquel](https://trisquel.info/)
-
-Support [The Trevor Project](https://www.thetrevorproject.org/), and their mission to crerate a safer & better world for future generations.
-
-[A disclaimer on my FSF membership and some thoughts](https://skushagra.com/disclaimer_fsf)
+[skushagra.com](https://skushagra.com)
 
 <hr>
 

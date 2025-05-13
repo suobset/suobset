@@ -29,7 +29,7 @@ Note: Excludes HTML. -->
 
 ## <a href="https://skushagra.com">Personal Website!!</a>
 
-Everything I'd want to put here, and much more. Blog is very outdated, for the record.
+Everything I'd want to put here, and much more. I switched to Blogger for hosting instead of GH Pages in 2025, because I wanted to focus more on the writing and less on the HTML.
 
 [skushagra.com](https://skushagra.com)
 

@@ -35,4 +35,4 @@ Everything I'd want to put here, and much more. I switched to Blogger for hostin
 
 <hr>
 
-I also use GitLab for my professional work at [Psivant](https://psivant.com), and a variety of self-hosted solutions based on different needs. 
+I also use GitLab for my professional work, and a variety of self-hosted solutions based on different needs. 

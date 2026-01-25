@@ -29,7 +29,7 @@ Note: Excludes HTML. -->
 
 ## <a href="https://skushagra.com">Personal Website!!</a>
 
-Everything I'd want to put here, and much more. I switched to Blogger for hosting instead of GH Pages in 2025, because I wanted to focus more on the writing and less on the HTML.
+Everything I'd want to put here, and much more. I switched to Hugo instead of Docusaurus in 2025, because I wanted to focus more on the writing and less on the HTML. Plus the object-oriented approach to HTML on Hugo is objectively fun!!
 
 [skushagra.com](https://skushagra.com)
 

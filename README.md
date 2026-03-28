@@ -43,7 +43,7 @@ I also use GitLab for my professional work, and a variety of self-hosted solutio
 
 Hopefully explains the profile pic. 🤘🏽
 
-<img width="1392" height="624" alt="Screenshot 2026-03-27 at 3 00 27 PM" src="https://github.com/user-attachments/assets/5399747a-a3ec-4764-86d5-d0cfcbb5a425" />
+https://github.com/user-attachments/assets/6a09ab0c-fb07-4fb9-a007-d18f8f6934ab
 
 (captured using an Xbox 360 Kinect, [libfreenect](https://github.com/OpenKinect/libfreenect), and lots of [tinkering & C++](https://github.com/suobset/freenect-demos))
 

@@ -39,7 +39,9 @@ I also use GitLab for my professional work, and a variety of self-hosted solutio
 
 <hr>
 
-### Here's my IR side, IRL <3
+### Here's my IR side, IRL 🫠
+
+thanks for being here <3 
 
 <img width="1392" height="624" alt="Screenshot 2026-03-27 at 3 00 27 PM" src="https://github.com/user-attachments/assets/5399747a-a3ec-4764-86d5-d0cfcbb5a425" />
 

@@ -41,8 +41,10 @@ I also use GitLab for my professional work, and a variety of self-hosted solutio
 
 ### Here's my IR side, IRL 🫠
 
-thanks for being here <3 
+Hopefully explains the profile pic. 🤘🏽
 
 <img width="1392" height="624" alt="Screenshot 2026-03-27 at 3 00 27 PM" src="https://github.com/user-attachments/assets/5399747a-a3ec-4764-86d5-d0cfcbb5a425" />
 
 (captured using an Xbox 360 Kinect, [libfreenect](https://github.com/OpenKinect/libfreenect), and lots of [tinkering & C++](https://github.com/suobset/freenect-demos))
+
+thanks for being here <3 

@@ -37,7 +37,7 @@ Self explanatory dump of everything I have done, plus my blog.
 
 I also use GitLab for my professional work, and a variety of self-hosted solutions based on different needs. 
 
-**UPDATE**: GitHub's reliability has, in my opinion, [tanked](https://www.githubstatus.com/incidents/zkxwbgr0cnmx) under [Microsoft's leadership](https://damrnelson.github.io/github-historical-uptime/). Since most OSS projects still live on GitHub, I will continue to use it and be active on here; but, I will soon start hosting mirrors of everything I do (i.e. personal projects) under a suitable alternate as well (maybe Codeberg/GitLab, maybe self hosted). More to follow.
+**UPDATE**: GitHub's reliability has, in my opinion, [tanked](https://damrnelson.github.io/github-historical-uptime/)..illustrated exceedingly [with such outages](https://www.githubstatus.com/incidents/zkxwbgr0cnmx). Since most OSS projects still live on GitHub, I will continue to use it and be active on here. However, I will also start hosting mirrors of everything I do (i.e. personal projects) under a suitable alternate as well (maybe Codeberg/GitLab, maybe self hosted; mainly as backup, they'll live on GitHub too). More to follow.
 
 <hr>
 

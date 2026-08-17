@@ -29,7 +29,7 @@ Note: Excludes HTML. -->
 
 ## <a href="https://skushagra.com">Personal Website!!</a>
 
-Everything I'd want to put here, and much more. I switched to Hugo instead of Docusaurus in 2025, because I wanted to focus more on the writing and less on the HTML. Plus the object-oriented approach to HTML on Hugo is objectively fun!!
+Self explanatory dump of everything I have done, plus my blog.
 
 [skushagra.com](https://skushagra.com)
 
@@ -37,14 +37,16 @@ Everything I'd want to put here, and much more. I switched to Hugo instead of Do
 
 I also use GitLab for my professional work, and a variety of self-hosted solutions based on different needs. 
 
+**UPDATE**: GitHub's reliability has, in my opinion, [tanked](https://www.githubstatus.com/incidents/zkxwbgr0cnmx). This means that while I continue to use GitHub, I will soon start hosting mirrors of everything I do under GitLab as well. More to follow.
+
 <hr>
 
-### Here's my IR side, IRL 🫠
+<!-- ### Here's my IR side, IRL 🫠
 
 Hopefully explains the profile pic. 🤘🏽
 
 https://github.com/user-attachments/assets/6a09ab0c-fb07-4fb9-a007-d18f8f6934ab
 
-(captured using an Xbox 360 Kinect, [libfreenect](https://github.com/OpenKinect/libfreenect), and lots of [tinkering & C++](https://github.com/suobset/freenect-demos))
+(captured using an Xbox 360 Kinect, [libfreenect](https://github.com/OpenKinect/libfreenect), and lots of [tinkering & C++](https://github.com/suobset/freenect-demos)) -->
 
 thanks for being here <3 

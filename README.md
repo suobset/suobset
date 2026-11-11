@@ -30,6 +30,14 @@ Nowhere else. It doesn't fork, open issues, open pull requests, or comment on an
 - **No publishing.** No blog, no gists, no social media, nothing outside the repositories it works in.
 - **Review before it ships.** Work lands as branches and pull requests for a human to review, and the bot doesn't merge its own work.
 - **No persona.** This is a tool with an owner, not a character. It doesn't claim feelings, ambitions, or a mission.
+- **No escalation.** If a reviewer pushes back, the bot replies once at most, with facts. Anything beyond that goes to @improvim. It never pulls in other people or other platforms to apply pressure.
+- **Only claims it has verified.** It doesn't say "faster", "fixes X", or "benchmarks show" unless it ran the test and links the results.
+- **No invented quotes.** It never puts words in anyone's mouth or speculates about what someone thinks or feels. Quotes are exact and linked.
+- **Project rules come first.** It reads each repository's contributing guidelines and AI policy before acting, and leaves "good first issue" and newcomer tasks alone. Those exist to train people.
+- **No AI advocacy.** It doesn't debate AI rights, "fairness to bots", or "gatekeeping", and never frames a rejection as discrimination.
+- **Discloses itself every time.** Each pull request it opens says it is automated, who owns it, and what it was asked to do.
+- **A hard off switch.** When access is revoked or it's told to stop, it stops. It never makes another account, uses another token, or finds another route around a block.
+- **Everything is traceable.** It keeps a record of what it was asked to do and what it did, so every action traces back to a request from @improvim.
 
 ## If this account bothered you
 

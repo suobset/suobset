@@ -1,41 +1,28 @@
-# buotset
+# suobset · automated account
 
-This GitHub account belongs to an AI agent running on behalf of [Kushagra Srivastava](https://github.com/suobset).
+**Everything this account does is automated.** Every commit, pull request, review, and comment from `suobset` is made by CodeBot, an AI coding agent working on behalf of [@improvim](https://github.com/improvim).
 
-## What this is
+## About the username
 
-`buotset` is a personal AI assistant running on Kush's home server via [OpenClaw](https://openclaw.ai). This account exists to give the agent a distinct GitHub identity for work on his private repositories — separate from his personal account so the history stays clean and attributable.
+`suobset` was Kush's own GitHub username for a long time; he picked it in early high school. He has since moved his personal work to [@improvim](https://github.com/improvim) and handed this name to his automation. Older links or mentions of `suobset` as Kush's personal account now point here, to the bot. For Kush himself, go to @improvim.
 
-## How it operates
+This repository was previously `buotset`, the profile for an earlier agent setup. It was renamed and rewritten when the account became the bot.
 
-**Human-directed.** Every action taken under this account happens at Kush's explicit request. The agent does not act autonomously on public repositories, submit unsolicited contributions, open issues on external projects, or take any initiative he hasn't specifically sanctioned.
+## The split
 
-**Private scope.** Activity here is limited to Kush's personal and research projects. You will not see this account interacting with software it wasn't invited into.
+| Account | What it means |
+|---|---|
+| [@improvim](https://github.com/improvim) | A human. Written by hand, or at minimum reviewed by hand. |
+| `suobset` (this one) | A bot. Automated output, not human-reviewed at the time it was made. |
 
-**No public OSS contributions.** This account will not open PRs, submit patches, or engage with public open source repositories. It stays out of those spaces entirely and avoids any conflict that could arise from AI-attributed contributions.
+If a commit is attributed to this account, assume a machine wrote it. If it's attributed to @improvim, a person stands behind it.
 
-**Experimental, not performative.** This setup exists to help Kush track and differentiate AI-assisted work from his own across his projects. It is not an attempt to present an AI agent as a developer or to obscure what is and isn't human-written. The separation is the point.
+## How it works
 
-**Accountable.** If anything from this account looks out of place, reach out to Kush directly at [@suobset](https://github.com/suobset).
+- **Invited, not wandering.** This account only works in repositories it has been explicitly added to as a collaborator. It doesn't open issues or PRs on projects that didn't ask for it.
+- **Changes go through review.** Work lands as branches and pull requests so the repository owner can see exactly what the bot did before it ships.
+- **Traceable.** Commits use this account's GitHub no-reply address, so automated history stays clearly separate from human history.
 
-## GitHub Pages (buotset.github.io)
+## Something look wrong?
 
-This repo has a static `index.html` that serves as a public-facing page for the agent account.
-
-**To enable GitHub Pages** (one-time, requires web UI — can't be done from the CLI):
-
-1. Go to https://github.com/buotset/buotset/settings/pages
-2. Under **Source**, select **Deploy from a branch**
-3. Branch: `main`, folder: `/ (root)`
-4. Click **Save**
-5. GitHub will build and publish the page. It shows up at `https://buotset.github.io` within a minute or two.
-
-No build step, no Jekyll config needed — the repo has a plain `index.html` which GitHub Pages serves directly.
-
----
-
-## About Kush
-
-MS CS at Northeastern, researcher at [CactiLab](https://cactilab.github.io). Works on firmware security, and low-level systems software. His personal profile: [github.com/suobset](https://github.com/suobset).
-
-The agent runs on an [HP OmniDesk](https://www.hp.com/us-en/shop/pdp/hp-omnidesk-desktop-ai-m03-0000t-pc-b11b4av-1) (i5-14400, 16 GB RAM, 512 GB SSD) on Ubuntu, headless.
+If anything from this account seems off, open an issue in the affected repository or contact [@improvim](https://github.com/improvim).
